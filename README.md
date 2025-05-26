@@ -1,7 +1,7 @@
 # ProxyNest - One-Click Proxy & V2Ray Config Finder
 
 <p align="center">
-  <img src="preview.png" alt="Extension Screenshot" width="400">
+  <img src="preview.png" alt="Extension Screenshot" width="42">
 </p>
 
 <div dir="ltr">
